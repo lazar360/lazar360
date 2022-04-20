@@ -43,7 +43,7 @@ I 'm Nicolas, Back-end developer from <img width="1.5%" src="https://user-images
  </b></a>
     </li>
     </li>
-    <li><a href="https://github.com/lazar360/Sortir-ENI"><b>ProjetEncheres / JEE : ⚖️ 
+    <li><a href="https://github.com/lazar360/ProjetEncheres"><b>ProjetEncheres / JEE : ⚖️ 
  </b></a>
     </li>
   </ul>
