@@ -22,7 +22,22 @@ I 'm Nicolas, Back-end developer from <img width="1.5%" src="https://user-images
 <p>
   <h3>My top products :</h3>
   <ul>
-    <li><a href="https://github.com/lazar360/ecommerce_full"><b>ecommerce_full / symfony</b></a></li>
+    <li><a href="https://https://github.com/lazar360/sitehero"><b>Site Hero / ASP.Net Core : <img width="3%" src="https://user-images.githubusercontent.com/91179295/164276384-8a889d23-f427-47e4-9c83-5400c09d6ef2.jpg">
+ </b></a>
+    </li>
+    <li><a href="https://https://github.com/lazar360/MyBlog"><b>MyBlog / laravel : 🖥️
+ </b></a>
+    </li>
+    <li><a href="https://github.com/lazar360/ecommerce_full"><b>ecommerce_full / symfony : 🛒
+ </b></a>
+    </li>
+    <li><a href="https://https://github.com/lazar360/Sortir-ENI"><b>Sortir-Eni / symfony : 🥂
+ </b></a>
+    </li>
+    </li>
+    <li><a href="https://https://github.com/lazar360/Sortir-ENI"><b>ProjetEncheres / JEE : ⚖️ 
+ </b></a>
+    </li>
   </ul>
 
 
