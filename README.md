@@ -52,4 +52,4 @@ I 'm Nicolas, Back-end developer from <img width="1.5%" src="https://user-images
   
 <h3>Where to find me ?</h3>
     
-I'm looking for a job. If you like my work, you can get in touch me via <a href = "mailto: nicolas.gautier35135@gmail.com">email</a> or <a href ="http://www.linkedin.com/in/nicolasdevnantes">LinkedIn</a>.  
+If you like my work, you can get in touch me via <a href = "mailto: nicolas.gautier35135@gmail.com">email</a> or <a href ="http://www.linkedin.com/in/nicolasdevnantes">LinkedIn</a>.  
