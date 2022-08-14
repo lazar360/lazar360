@@ -29,6 +29,7 @@ I 'm Nicolas, Back-end developer from <img width="1.5%" src="https://user-images
    <ul>
     <li><a href="https://github.com/lazar360/employeemanagerAngular"><b>Employee Manager / Java + Angular : <img width="3%" src="https://bootdey.com/img/Content/avatar/avatar4.png">
  </b></a>
+    </li>
   <ul>
     <li><a href="https://github.com/lazar360/petitsanimaux2"><b>Petits Animaux 2 / PHP vanilla : <img width="3%" src="https://user-images.githubusercontent.com/91179295/184547784-8bfcf3c0-5434-4a08-9bf2-e7630dbb9a34.png">
  </b></a>
