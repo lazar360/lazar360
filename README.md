@@ -26,8 +26,11 @@ I 'm Nicolas, Back-end developer from <img width="1.5%" src="https://user-images
   </p>
   
   <h3>My top products :</h3>
-  <ul>
+   <ul>
     <li><a href="https://github.com/lazar360/employeemanagerAngular"><b>Employee Manager / Java + Angular : <img width="3%" src="https://bootdey.com/img/Content/avatar/avatar4.png">
+ </b></a>
+  <ul>
+    <li><a href="https://github.com/lazar360/petitsanimaux2"><b>Petits Animaux 2 / PHP vanilla : <img width="3%" src="https://user-images.githubusercontent.com/91179295/184547784-8bfcf3c0-5434-4a08-9bf2-e7630dbb9a34.png">
  </b></a>
     <li><a href="https://github.com/lazar360/sitehero"><b>Site Hero / ASP.Net Core : <img width="3%" src="https://user-images.githubusercontent.com/91179295/164276384-8a889d23-f427-47e4-9c83-5400c09d6ef2.jpg">
  </b></a>
