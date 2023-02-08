@@ -15,6 +15,7 @@ I 'm Nicolas, Back-end developer from <img width="1.5%" src="https://user-images
   </p>
 
   <p align="center">
+    <img width="8%" src="https://user-images.githubusercontent.com/91179295/217637050-a8b0caab-e660-46a0-9480-74faadefa89a.png">
     <img width="10%" src="https://user-images.githubusercontent.com/91179295/164269315-98b912be-091f-43af-b3ee-60ceb31c5749.png">
     <img width="10%" src="https://user-images.githubusercontent.com/91179295/164269386-930ee58c-ce2d-4def-ab0c-e2b90dd494a5.png">
     <img width="10%" src="https://user-images.githubusercontent.com/91179295/164269767-85710a94-5912-4231-924b-81274440bbd5.png">
