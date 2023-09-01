@@ -25,6 +25,9 @@ I 'm Nicolas, Back-end developer from <img width="1.5%" src="https://user-images
   
   <h3>My top products :</h3>
   <ul>
+    <li><a href="https://github.com/lazar360/angular-ecommerce"><b>Ecommerce / Spring Angular : 📙 
+ </b></a>
+    </li>
     <li><a href="https://github.com/lazar360/completejscourse-pig-game"><b>Dice Game / JavaScript : 🎲 
  </b></a>
     </li>
