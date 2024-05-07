@@ -25,8 +25,9 @@ I 'm Nicolas, Back-end developer from <img width="1.5%" src="https://user-images
   
   <h3>My top products :</h3>
   <ul>
-    <li><a href="https://github.com/lazar360/react-tv-show"><b>TV Show / React :  📺  
- </b></a>
+    <li>
+      <a href="https://github.com/lazar360/react-tv-show"><b>TV Show / React :</a>📺</b>
+    </li>
     <li><a href="https://github.com/lazar360/angular-ecommerce"><b>Ecommerce / Spring Boot Angular :  📙 
  </b></a>
     </li>
