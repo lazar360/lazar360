@@ -26,37 +26,37 @@ I 'm Nicolas, Back-end developer from <img width="1.5%" src="https://user-images
   <h3>My top products :</h3>
   <ul>
     <li>
-      <a href="https://github.com/lazar360/react-tv-show"><b>TV Show / React :</a>📺</b>
+      <a href="https://github.com/lazar360/react-tv-show"><b>TV Show / React :</a> 📺 </b>
     </li>
-    <li><a href="https://github.com/lazar360/angular-ecommerce"><b>Ecommerce / Spring Boot Angular :  📙 
- </b></a>
+    <li>
+      <a href="https://github.com/lazar360/angular-ecommerce"><b>Ecommerce / Spring Boot Angular :</a> 📙 </b>
     </li>
-    <li><a href="https://github.com/lazar360/parking-ui"><b>Parking Info / Java + Angular : 🚗
- </b></a>
+    <li>
+      <a href="https://github.com/lazar360/parking-ui"><b>Parking Info / Java + Angular :</a> 🚗 </b>
     </li>
-    <li><a href="https://github.com/lazar360/employeemanagerAngular"><b>Employee Manager / Java + Angular : <img width="3%" src="https://bootdey.com/img/Content/avatar/avatar4.png">
- </b></a>
+    <li>
+      <a href="https://github.com/lazar360/employeemanagerAngular"><b>Employee Manager / Java + Angular :</a> <img width="3%" src="https://bootdey.com/img/Content/avatar/avatar4.png"></b>
     </li>
-    <li><a href="https://github.com/lazar360/petitsanimaux2"><b>Petits Animaux 2 / PHP vanilla : <img width="3%" src="https://user-images.githubusercontent.com/91179295/184547784-8bfcf3c0-5434-4a08-9bf2-e7630dbb9a34.png">
- </b></a>
+    <li>
+      <a href="https://github.com/lazar360/petitsanimaux2"><b>Petits Animaux 2 / PHP vanilla :</a> <img width="3%" src="https://user-images.githubusercontent.com/91179295/184547784-8bfcf3c0-5434-4a08-9bf2-e7630dbb9a34.png"></b>
     </li>
-    <li><a href="https://github.com/lazar360/sitehero"><b>Site Hero / ASP.Net Core : <img width="3%" src="https://user-images.githubusercontent.com/91179295/164276384-8a889d23-f427-47e4-9c83-5400c09d6ef2.jpg">
- </b></a>
+    <li>
+      <a href="https://github.com/lazar360/sitehero"><b>Site Hero / ASP.Net Core : </a> <img width="3%" src="https://user-images.githubusercontent.com/91179295/164276384-8a889d23-f427-47e4-9c83-5400c09d6ef2.jpg">      </b>
     </li>
-    <li><a href="https://github.com/lazar360/MyBlog"><b>MyBlog / laravel : 🖥️
- </b></a>
+    <li>
+      <a href="https://github.com/lazar360/MyBlog"><b>MyBlog / laravel :</a> 🖥️</b>
     </li>
-    <li><a href="https://github.com/lazar360/ecommerce_full"><b>ecommerce_full / symfony : 🛒
- </b></a>
+    <li>
+      <a href="https://github.com/lazar360/ecommerce_full"><b>ecommerce_full / symfony :</a> 🛒</b>
     </li>
-    <li><a href="https://github.com/lazar360/mini_ecommerce"><b>mini_ecommerce / symfony : 💰
- </b></a>
+    <li>
+      <a href="https://github.com/lazar360/mini_ecommerce"><b>mini_ecommerce / symfony :</a> 💰</b>
     </li>
-    <li><a href="https://github.com/lazar360/Sortir-ENI"><b>Sortir-Eni / symfony : 🥂
- </b></a>
+    <li>
+      <a href="https://github.com/lazar360/Sortir-ENI"><b>Sortir-Eni / symfony :</a> 🥂</b>
     </li>
-    <li><a href="https://github.com/lazar360/ProjetEncheres"><b>ProjetEncheres / JEE : ⚖️ 
- </b></a>
+    <li>
+      <a href="https://github.com/lazar360/ProjetEncheres"><b>ProjetEncheres / JEE :</a> ⚖️</b> 
     </li>
   </ul>
   
